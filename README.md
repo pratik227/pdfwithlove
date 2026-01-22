@@ -5,6 +5,7 @@ No uploads. No servers. No tracking. No subscriptions.
 
 Built for professionals who value **speed, security, and absolute data control**.
 
+Doc (WIP) - http://docs-pdfwithlove-app.netlify.app/
 ---
 
 ## 🎯 What is pdfwithlove?
